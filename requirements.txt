@@ -19,5 +19,5 @@ selenium==4.16.0
 webdriver-manager==4.0.1
 
 
-tiktoken==0.5.2
+tiktoken==0.7.0
 posthog==3.0.2
